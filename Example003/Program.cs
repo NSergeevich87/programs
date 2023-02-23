@@ -1,0 +1,13 @@
+﻿//Console.WriteLine ("Vvedite A");
+//numberA = Console.ReadLine ();
+//double numberA = Console.ReadLine;
+//Console.writeLine ("Vvedite B");
+//numberB = Console.ReadLine ();
+//double numberB = Console.ReadLine;
+//Console.WriteLine (numberA / numberB);
+double A = new Random().Next(1,11);
+Console.WriteLine (A);
+double B = new Random().Next(1,11);
+Console.WriteLine (B);
+double result = (A * B);
+Console.WriteLine (result);
