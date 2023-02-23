@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Professional\\Documents\\Домашка GeekBrains\\C#Lection1\\programs\\Example002_hello_user\\Example002_hello user.csproj",
-      "projectName": "Example002_hello user",
-      "projectPath": "C:\\Users\\Professional\\Documents\\Домашка GeekBrains\\C#Lection1\\programs\\Example002_hello_user\\Example002_hello user.csproj",
+      "projectUniqueName": "C:\\Users\\Professional\\Documents\\Домашка GeekBrains\\C#Lection1\\programs\\Example002_hello_user\\Example002_hello_user.csproj",
+      "projectName": "Example002_hello_user",
+      "projectPath": "C:\\Users\\Professional\\Documents\\Домашка GeekBrains\\C#Lection1\\programs\\Example002_hello_user\\Example002_hello_user.csproj",
       "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Professional\\Documents\\Домашка GeekBrains\\C#Lection1\\programs\\Example002_hello_user\\obj\\",
       "projectStyle": "PackageReference",
